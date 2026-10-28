@@ -1,0 +1,21 @@
+# Dependencies
+**/node_modules/
+
+# Next.js build & cache
+**/.next/
+**/out/
+
+# .NET build & SQLite database
+**/bin/
+**/obj/
+**/*.db
+**/*.db-wal
+**/*.db-shm
+
+# Environment variables & secrets
+**/.env.local
+**/.env*.local
+
+# Editor & OS files
+.vscode/
+.DS_Store
